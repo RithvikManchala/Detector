@@ -1,6 +1,6 @@
 img = "";
 status = "";
-objects = "";
+objects = [];
 
 function preload()
 {
